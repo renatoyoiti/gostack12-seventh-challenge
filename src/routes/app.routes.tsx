@@ -37,7 +37,6 @@ const AppRoutes: React.FC = () => (
         headerLeftContainerStyle: {
           marginLeft: 20,
         },
-
         headerBackImage: () => <FeatherIcon name="chevron-left" size={24} />,
       }}
       name="Cart"
